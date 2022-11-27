@@ -56,4 +56,6 @@
 
 ### Release History - V1 (27/11/2022)
 
+### Read more on - https://login2explore.com/
+
 ![image](https://user-images.githubusercontent.com/55153717/204137179-e616adea-c388-44b4-9d16-7a769cb7773b.png)
